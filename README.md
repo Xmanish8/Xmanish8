@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate in: data analytics for social good
 - 📫 How to reach me:
   Email: marathemanish434@gmail.com
-  LinkedIn: [manish marathe](https://www.linkedin.com/in/manish-marathe)
+  LinkedIn: [manish marathe](https://www.linkedin.com/in/xmanishmarathe?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes
 
