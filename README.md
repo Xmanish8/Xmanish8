@@ -14,6 +14,7 @@ Combining technical expertise with leadership through NCC .
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&width=650&lines=Hi+I'm+Manish+Dattu+Marathe;Electronics+%26+Telecommunication+Engineer;Data+Analytics+Enthusiast;NCC+Cadet+%7C+Web+Developer;Passionate+about+technology,+innovation,+and+impactful+solutions" />
 </p>
+
 ---
 
 🔥 Skills
@@ -31,6 +32,7 @@ Combining technical expertise with leadership through NCC .
   <img src="https://img.shields.io/badge/IoT-Arduino-green?style=for-the-badge&logo=arduino&logoColor=white&labelColor=darkgreen&animation=spin" />
   <img src="https://img.shields.io/badge/Embedded_Systems-MATLAB-orange?style=for-the-badge&logo=matlab&logoColor=white&labelColor=darkorange&animation=spin" />
 </p>
+
 ---
 
 🧩 Projects
@@ -42,8 +44,14 @@ Alumni Association Platform – Full-stack web & mobile app connecting students 
 More Projects Coming Soon – IoT, data analytics, and web development initiatives.
 
 
+---
+
+💼 Experience 
+
+Completed Internship Python And Power BI At Sami Infotech
 
 ---
+
 
 🏆 Achievements & Certifications
 
@@ -52,7 +60,9 @@ More Projects Coming Soon – IoT, data analytics, and web development initiativ
   <img src="https://img.shields.io/badge/GenAI%20Data%20Analytics-📊-gradient?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MATLAB-Onramp-🔧-gradient?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Arduino-Course-📡-gradient?style=for-the-badge" />
-</p>Selected for Smart India Hackathon 2025 & won college hackathon
+</p>
+
+Selected for Smart India Hackathon 2025 & won college hackathon
 
 Completed GenAI Data Analytics Simulation (TATA / Forage)
 
@@ -64,6 +74,7 @@ MATLAB Onramp & Arduino beginner course
 
 ---
 
+
 📊 GitHub Stats
 
 <p align="center">
@@ -71,6 +82,7 @@ MATLAB Onramp & Arduino beginner course
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xmanish8&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xmanish8&layout=compact&theme=radical" />
 </p>  
+
 ---
 
 🌐 Connect with Me
@@ -82,6 +94,7 @@ MATLAB Onramp & Arduino beginner course
 </p><p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Xmanish8.Xmanish8" />
 </p>
+
 ---
 
 ⭐ “I believe in continuous learning, collaboration, and applying engineering knowledge to create solutions that make a difference.”
