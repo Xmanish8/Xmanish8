@@ -52,14 +52,13 @@ Completed Internship Python And Power BI At Sami Infotech
 
 ---
 
-
 🏆 Achievements & Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/Smart%20India%20Hackathon-🏆-gradient?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GenAI%20Data%20Analytics-📊-gradient?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MATLAB-Onramp-🔧-gradient?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Arduino-Course-📡-gradient?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MATLAB-Onramp-FF8C00?style=for-the-badge&logo=matlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-Course-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 Selected for Smart India Hackathon 2025 & won college hackathon
