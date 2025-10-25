@@ -79,7 +79,7 @@ MATLAB Onramp & Arduino beginner course
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xmanish8&show_icons=true&theme=radical&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xmanish8&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xmanish8&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xmanish8&layout=compact&theme=blue-green" alt="Top Languages">
 </p>  
 
 ---
