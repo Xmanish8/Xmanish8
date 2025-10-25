@@ -1,26 +1,38 @@
-👋 Hi, I'm Manish Dattu Marathe
+<h1 align="center">👋 Hi, I'm Manish Dattu Marathe</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&width=700&lines=Electronics+%26+Telecommunication+Engineer;Embedded+Systems+Developer;NCC+Cadet;Data+Analytics;C+%26+C++ Programmer;Hands-on+Mini+Projects;Algorithm+%26+Problem+Solving" />
+</p>
 
-🎓 Electronics & Telecommunication Engineer | Core Electronics
-🪖 NCC Cadet | Data Analytics 
+<p align="center">
+  <img src="https://img.shields.io/badge/Electronics%20%26%20Telecommunication-blue?style=for-the-badge&logo=engineering&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20Systems-purple?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/NCC%20Cadet-red?style=for-the-badge&logo=army&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-orange?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%20Programmer-blue?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++%20Programmer-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mini%20Projects-lightgrey?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Algorithm%20%26%20Problem-Solving-green?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 Third-year engineering student passionate about emerging technologies, innovation, and creating impactful solutions.
-Combining technical expertise with leadership through NCC .
+Combining technical expertise with leadership through NCC,
 
 
 ---
 
 💼 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&width=650&lines=Hi+I'm+Manish+Dattu+Marathe;Electronics+%26+Telecommunication+Engineer;Data+Analytics+Enthusiast;NCC+Cadet+%7C+Web+Developer;Passionate+about+technology,+innovation,+and+impactful+solutions" />
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&width=700&lines=Hi+I'm+Manish+Dattu+Marathe;Electronics+%26+Telecommunication+Engineer;Embedded+Systems+Developer;NCC+Cadet;Data+Analytics;C+%26+Programmer;Hands-on+Mini+Projects;Algorithm+%26+Problem+Solving" />
 </p>
+
 
 ---
 
 🔥 Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,nodejs,mongodb,sql,arduino,matlab,git,powerbi,tableau" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,react,nodejs,mongodb,sql,arduino,matlab,git,powerbi,tableau" />
 </p><p align="center">
   <img src="https://img.shields.io/badge/Programming-C%2B%2B-blueviolet?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=purple&animation=spin" />
   <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue&labelColor=yellow&animation=spin" />
@@ -37,18 +49,29 @@ Combining technical expertise with leadership through NCC .
 
 🧩 Projects
 
-College Compass – Web app to explore & compare colleges. Features detailed info, comparison tools, and user-friendly navigation.
+### **College Compass**
+- Web app to explore & compare colleges  
+- Features: detailed info, comparison tools, and user-friendly navigation  
+- [Repository Link](https://github.com/Xmanish8/College-Compass)  
 
-Alumni Association Platform – Full-stack web & mobile app connecting students & alumni, including mentorship, jobs, donations, and real-time chat.
+### **Alumni Association Platform**
+- Full-stack web & mobile app connecting students & alumni  
+- Features: mentorship, jobs, donations, real-time chat  
+- [Repository Link](https://github.com/Xmanish8/Alumni-Association)  
+
+### **C Programming Mini Projects**
+- Includes: Area calculations, Leap Year Check, Grade Programs, Finance Calculators  
+- [Repository Link](https://github.com/Xmanish8/C_Programming)  
 
 More Projects Coming Soon – IoT, data analytics, and web development initiatives.
-
 
 ---
 
 💼 Experience 
 
-Completed Internship Python And Power BI At Sami Infotech
+- **Python & Power BI Intern** – Sami Infotech  
+- Hands-on experience in **data analytics simulations and reporting**  
+- Practical exposure to **dashboard creation and Python automation**
 
 ---
 
@@ -70,9 +93,7 @@ Completed Deloitte Australia Data Analytics Simulation
 MATLAB Onramp & Arduino beginner course
 
 
-
 ---
-
 
 📊 GitHub Stats
 
