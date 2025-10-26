@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi, I'm Manish Dattu Marathe</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&width=700&lines=Electronics+%26+Telecommunication+Engineer;Embedded+Systems+Developer;NCC+Cadet;Data+Analytics;C+%26+C++ Programmer;Hands-on+Mini+Projects;Algorithm+%26+Problem+Solving" />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Electronics%20%26%20Telecommunication-blue?style=for-the-badge&logo=engineering&logoColor=white" />
