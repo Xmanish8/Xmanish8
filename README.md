@@ -15,7 +15,9 @@
     <img src="https://img.shields.io/github/followers/Xmanish8?style=for-the-badge&logo=github" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=Xmanish8&style=for-the-badge&color=blue" />
-</p>---
+</p>
+
+---
 
 🎓 B.E. Electronics & Telecommunication Engineering student (Honors in Robotics) passionate about Artificial Intelligence, Machine Learning, Computer Vision, Embedded Systems, Data Analytics, and Full-Stack Development.
 
@@ -229,11 +231,15 @@ Nexus Spring of Code (NSoC) 2026
 
 📊 GitHub Analytics
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Xmanish8&show_icons=true&theme=radical&count_private=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Xmanish8&theme=radical"/></p><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xmanish8&layout=compact&theme=blue-green"/></p><p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Xmanish8&theme=react-dark&hide_border=true" width="95%"/></p>---
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Xmanish8&show_icons=true&theme=radical&count_private=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Xmanish8&theme=radical"/></p><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xmanish8&layout=compact&theme=blue-green"/></p><p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Xmanish8&theme=react-dark&hide_border=true" width="95%"/></p>
+
+---
 
 🏅 GitHub Trophies
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Xmanish8&theme=radical&no-frame=true&no-bg=true&margin-w=15"/></p>---
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Xmanish8&theme=radical&no-frame=true&no-bg=true&margin-w=15"/></p>
+
+---
 
 🌐 Connect With Me
 
@@ -245,11 +251,15 @@ Nexus Spring of Code (NSoC) 2026
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a><a href="mailto:contact.manishmarathe@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a></p>---
+</a></p>
+
+---
 
 📈 Profile Visitors
 
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Xmanish8.Xmanish8"/></p>---
+<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Xmanish8.Xmanish8"/></p>
+
+---
 
 💡 Quote
 
