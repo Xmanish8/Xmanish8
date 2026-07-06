@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Manish Dattu Marathe</h1>
-
-<h3 align="center">
-AI & Machine Learning Engineer • Computer Vision Enthusiast • Electronics & Telecommunication Engineer
-</h3>
+👋 Hi, I'm Manish Dattu Marathe
 
 <p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-00C853?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-2196F3?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electronics%20%26%20Telecommunication-blue?style=for-the-badge&logo=engineering&logoColor=white" />
+  <img src="https://img.shields.io/badge/Honors%20in%20Robotics-purple?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-GSSoC-orange?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/NCC%20Cadet-red?style=for-the-badge&logo=shield&logoColor=white" />
+</p><p align="center">
   <a href="https://manishmarathe.me">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-manishmarathe.me-0A66C2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-manishmarathe.me-000000?style=for-the-badge" />
   </a>
   <a href="https://github.com/Xmanish8">
     <img src="https://img.shields.io/github/followers/Xmanish8?style=for-the-badge&logo=github" />
@@ -14,186 +17,249 @@ AI & Machine Learning Engineer • Computer Vision Enthusiast • Electronics & 
   <img src="https://komarev.com/ghpvc/?username=Xmanish8&style=for-the-badge&color=blue" />
 </p>
 
+---
+
+🎓 B.E. Electronics & Telecommunication Engineering student (Honors in Robotics) passionate about Artificial Intelligence, Machine Learning, Computer Vision, Embedded Systems, Data Analytics, and Full-Stack Development.
+
+💡 I enjoy building intelligent software solutions that solve real-world problems while actively contributing to open-source communities and continuously exploring new technologies.
+
+---
+
+💼 About Me
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=22&pause=1000&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;Computer+Vision+Developer;YOLOv8+%7C+PyTorch+%7C+OpenCV;Building+AI+Projects+for+Real+World+Impact;Open+Source+Contributor;Always+Learning+Something+New+🚀" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F5FF&center=true&width=900&lines=Hi+I'm+Manish+Dattu+Marathe;AI+%26+Machine+Learning+Engineer;Computer+Vision+Developer;YOLOv8+%7C+PyTorch+%7C+OpenCV;Electronics+%26+Telecommunication+Engineer;Open+Source+Contributor;Always+Learning+New+Technologies+🚀" />
+</p>- 🎓 B.E. Electronics & Telecommunication Engineering (Honors in Robotics)
+- 🤖 AI & Machine Learning Enthusiast
+- 👁️ Computer Vision Developer
+- 🌱 Currently learning Deep Learning, AI Agents, Spring Boot & DSA
+- 💻 Open Source Contributor (GSSoC & NSoC)
+- 📍 Pune, Maharashtra, India
 
 ---
 
-# 🚀 About Me
+🔥 Skills
 
-🎓 B.E. Electronics & Telecommunication Engineering Student (Honors in Robotics)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,arduino,matlab,pytorch" />
+</p>🤖 AI & Machine Learning
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Computer Vision, Data Analytics and Embedded Systems.
-
-💡 I enjoy building intelligent software that solves real-world problems through AI and automation.
-
-🌱 Currently learning
-
-- Advanced Machine Learning
-- Deep Learning
-- Computer Vision
-- Spring Boot
-- Data Structures & Algorithms
-- AI Deployment
-
-🌐 Portfolio
-
-**https://manishmarathe.me**
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,sql" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
-
-- YOLOv8
-- Computer Vision
 - Machine Learning
+- Computer Vision
 - Deep Learning
+- YOLOv8
+- PyTorch
+- OpenCV
 - Pandas
 - NumPy
 - Matplotlib
 - Streamlit
 
-### Web Development
+💻 Programming
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
-</p>
+- Python
+- Java
+- C
+- C++
+- JavaScript
+- SQL
 
-### Tools
+🌐 Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,arduino,matlab" />
-</p>
+- React.js
+- Node.js
+- Express.js
+- HTML5
+- CSS3
+- MongoDB
+- WordPress
 
-Power BI • Tableau • Jupyter Notebook • Simulink
+📊 Data Analytics
+
+- Power BI
+- Tableau
+- Excel
+- Data Visualization
+
+🛠 Tools
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- MATLAB
+- Simulink
+- Arduino IDE
 
 ---
 
-# ⭐ Featured Projects
+🚀 Current Focus
 
-## 🔤 DotSpeak – BrailleVision AI
+- 🤖 Artificial Intelligence
+- 👁️ Computer Vision
+- 📊 Machine Learning
+- 🌍 Open Source
+- ☕ Java Backend Development
+- ⚡ Embedded Systems
+- 📈 Data Analytics
 
-AI-powered Braille recognition system using Computer Vision.
+---
 
-**Tech Stack**
+🧩 Featured Projects
+
+🔤 DotSpeak – BrailleVision AI ⭐
+
+AI-powered Braille Recognition System using Computer Vision and Deep Learning.
+
+Tech Stack
 
 Python • YOLOv8 • PyTorch • OpenCV • Streamlit
 
-✨ Features
+Features
 
-- Real-time Braille recognition
-- Webcam inference
+- Real-time webcam inference
+- Braille A–Z recognition
 - English text generation
 - Text-to-Speech conversion
-- Accessibility focused AI
+- Accessibility-focused AI
 
 ---
 
-## 🏥 Patient Record Management System
+🌡 Urban Heat Mitigation using AI/ML
+
+Machine Learning-powered environmental analytics platform.
+
+Features
+
+- Heat prediction
+- AI recommendations
+- Interactive dashboard
+- Data visualization
+
+---
+
+🏥 Patient Record Management System
 
 Desktop healthcare management application.
 
-**Tech Stack**
+Tech Stack
 
 Python • Tkinter • MySQL • Pandas
 
----
+Features
 
-## 🎓 College Compass
-
-Platform to help students explore colleges and admission information.
-
-**Tech Stack**
-
-WordPress • JavaScript • BotPress
-
----
-
-## 🌡 Urban Heat Mitigation using AI/ML
-
-Machine Learning project for urban heat prediction and environmental analysis.
-
----
-
-# 💼 Experience
-
-### Python & Power BI Intern
-
-**Sami Infotech**
-
-- Python automation
-- Dashboard development
+- Patient management
+- CRUD operations
 - Data visualization
-- Analytics reporting
+- Medical record tracking
 
 ---
 
-# 🏆 Achievements
+🎓 College Compass
 
-🏅 GSSoC Contributor
+Student guidance platform for college exploration and admission assistance.
 
-🏅 NSoC Contributor
+Features
 
-🏅 Techfest IIT Bombay Campus Ambassador
-
-🏅 National-Level Hackathon Finalist
-
-🏅 Internal Hackathon Winner
-
-🏅 NCC Cadet
-
-🏅 IETE Student Member
+- College comparison
+- AI chatbot
+- Admission guidance
+- Information portal
 
 ---
 
-# 📜 Certifications
+---
 
-- Oracle Analytics Cloud Professional
-- Java Programming Fundamentals
-- Tata GenAI Data Analytics Simulation
-- Deloitte Data Analytics Simulation
-- MATLAB Onramp
-- Arduino Programming
+💼 Experience
+
+👨‍💻 Python & Power BI Intern | Sami Infotech
+
+📅 Feb 2025 – Apr 2025
+
+- Developed Python automation scripts for data processing.
+- Built interactive Power BI dashboards for business insights.
+- Worked on data cleaning, visualization, and reporting.
+- Gained hands-on experience with analytics workflows and real-world datasets.
 
 ---
 
-# 📊 GitHub Stats
+🌍 Open Source Contributor
+
+GirlScript Summer of Code (GSSoC) 2026
+
+- Contributed to open-source projects.
+- Improved documentation and frontend components.
+- Collaborated with developers across multiple repositories.
+
+Nexus Spring of Code (NSoC) 2026
+
+- Active contributor to community-driven open-source projects.
+- Worked on issue resolution and feature improvements.
+
+---
+
+🏆 Achievements & Certifications
 
 <p align="center">
+<img src="https://img.shields.io/badge/Hackathon-Winner-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GSSoC-Contributor-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NSoC-Contributor-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NCC-Cadet-red?style=for-the-badge"/>
+</p>🏅 Achievements
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Xmanish8&show_icons=true&theme=tokyonight&hide_border=true"/>
+- 🥇 Internal College Hackathon Winner
+- 🏆 Selected for National-Level Hackathon
+- 🎖 Techfest IIT Bombay Campus Ambassador
+- 💻 GirlScript Summer of Code (GSSoC) Contributor
+- 🌍 Nexus Spring of Code (NSoC) Contributor
+- 🇮🇳 NCC Cadet
+- 📡 IETE Student Member
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Xmanish8&theme=tokyonight&hide_border=true"/>
+---
 
+📜 Certifications
+
+- ✅ Oracle Analytics Cloud Professional
+- ✅ Java Programming Fundamentals
+- ✅ Tata GenAI Data Analytics Job Simulation
+- ✅ Deloitte Data Analytics Job Simulation
+- ✅ MATLAB Onramp
+- ✅ Arduino Programming
+- ✅ Power BI Workshop
+
+---
+
+# 🚀 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Xmanish8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Xmanish8&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xmanish8&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xmanish8&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xmanish8&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
 
-# 🏅 GitHub Trophies
+# 📈 Profile Summary
 
 <p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xmanish8&theme=github_dark" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Xmanish8&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xmanish8&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Xmanish8&theme=github_dark" width="48%"/>
+</p>
 
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xmanish8&theme=github_dark" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xmanish8&theme=github_dark&utcOffset=5.5" width="48%"/>
 </p>
 
 ---
@@ -203,14 +269,10 @@ Machine Learning project for urban heat prediction and environmental analysis.
 <p align="center">
 
 <a href="https://manishmarathe.me">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-manishmarathe.me-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Xmanish8">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/xmanishmarathe">
+<a href="https://www.linkedin.com/in/xmanishmarathe">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -223,9 +285,10 @@ Machine Learning project for urban heat prediction and environmental analysis.
 ---
 
 <p align="center">
-
-### 💡 "Building intelligent systems that solve real-world problems through AI, software engineering and innovation."
-
-⭐ Thanks for visiting my profile!
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Xmanish8.Xmanish8"/>
 </p>
+
+---
+
+> 💡 **"Building intelligent systems that solve real-world problems through AI, Computer Vision, and Software Engineering."**
+
