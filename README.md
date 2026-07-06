@@ -229,48 +229,6 @@ Nexus Spring of Code (NSoC) 2026
 
 ---
 
-📊 GitHub Analytics
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Xmanish8&show_icons=true&theme=radical&count_private=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Xmanish8&theme=radical"/></p><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xmanish8&layout=compact&theme=blue-green"/></p><p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Xmanish8&theme=react-dark&hide_border=true" width="95%"/></p>
-
----
-
-🌐 Connect With Me
-
-<p align="center"><a href="https://manishmarathe.me">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a><a href="https://github.com/Xmanish8">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://www.linkedin.com/in/xmanishmarathe">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="mailto:contact.manishmarathe@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a></p>
-
----
-
-📈 Profile Visitors
-
-<p align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=Xmanish8.Xmanish8"/></p>
-
----
-
-💡 Quote
-
-«"Building intelligent systems that solve real-world problems through Artificial Intelligence, Software Engineering, and Innovation."»
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
-</h3><p align="center">
-Made with ❤️ by <b>Manish Dattu Marathe</b>
-</p>
-
----
-
----
-
 # 🚀 GitHub Analytics
 
 <p align="center">
@@ -334,22 +292,3 @@ Made with ❤️ by <b>Manish Dattu Marathe</b>
 
 > 💡 **"Building intelligent systems that solve real-world problems through AI, Computer Vision, and Software Engineering."**
 
-
-🏆 GitHub Highlights
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xmanish8&theme=github_dark" width="100%" />
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xmanish8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xmanish8&theme=tokyonight&hide_border=true" height="170"/>
-</p><p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xmanish8&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p><p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xmanish8&theme=react-dark&hide_border=true" width="100%"/>
-</p>---
-
-📈 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Xmanish8/Xmanish8/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
-</p>
