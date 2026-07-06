@@ -235,10 +235,11 @@ Nexus Spring of Code (NSoC) 2026
 
 ---
 
-🏅 GitHub Trophies
+ 🏆 GitHub Trophies
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Xmanish8&theme=radical&no-frame=true&no-bg=true&margin-w=15"/></p>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Xmanish8&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 ---
 
 🌐 Connect With Me
